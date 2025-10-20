@@ -1,7 +1,6 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -9,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Shan Wei/Desktop/git demo",
-      "program": "c:/Users/Shan Wei/Desktop/git demo/output/${class _template}.exe",
+      "cwd": "c:/Users/Shan Wei/Desktop/git demo/GithubDemo",
+      "program": "c:/Users/Shan Wei/Desktop/git demo/GithubDemo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
